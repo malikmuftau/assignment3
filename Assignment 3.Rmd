@@ -1,3 +1,5 @@
+#Name- Abdul Malik Muftau
+#Date - 10/21/2021
 # Assignment 3 - Social Network Analysis
 
 ## Part I
